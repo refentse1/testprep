@@ -1,0 +1,9 @@
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\BusinessLogic\bin\Debug\DataAccess.dll
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\BusinessLogic\obj\Debug\BusinessLogic.pdb

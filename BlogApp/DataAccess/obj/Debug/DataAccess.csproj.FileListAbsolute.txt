@@ -1,0 +1,6 @@
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\DataAccess\bin\Debug\DataAccess.dll
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\DataAccess\bin\Debug\DataAccess.pdb
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\DataAccess\obj\Debug\DataAccess.dll
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\DataAccess\obj\Debug\DataAccess.pdb

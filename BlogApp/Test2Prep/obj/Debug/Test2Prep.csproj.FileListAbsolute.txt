@@ -1,0 +1,13 @@
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\Test2Prep\bin\Debug\Test2Prep.exe.config
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\Test2Prep\bin\Debug\Test2Prep.exe
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\Test2Prep\bin\Debug\Test2Prep.pdb
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\Test2Prep\bin\Debug\BusinessLogic.dll
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\Test2Prep\bin\Debug\BusinessLogic.pdb
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\Test2Prep\obj\Debug\Test2Prep.csproj.AssemblyReference.cache
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\Test2Prep\obj\Debug\Test2Prep.csproj.SuggestedBindingRedirects.cache
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\Test2Prep\obj\Debug\Test2Prep.csproj.CoreCompileInputs.cache
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\Test2Prep\obj\Debug\Test2Prep.csproj.CopyComplete
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\Test2Prep\obj\Debug\Test2Prep.exe
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\Test2Prep\obj\Debug\Test2Prep.pdb
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\Test2Prep\bin\Debug\DataAccess.dll
+E:\Users\refen\Documents\Source Code\C#\Test2Preparation\Test2Prep\bin\Debug\DataAccess.pdb
